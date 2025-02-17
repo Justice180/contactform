@@ -1,8 +1,16 @@
+ HEAD
+
+# contactform
+ eb794196693bef838edc5e6e759a500ff920aa45
 # Frontend Mentor - Contact form
 
 ![Design preview for the Contact form coding challenge](./design/desktop-preview.jpg)
 
-## Welcome! í±‹
+HEAD
+## Welcome! ï¿½ï¿½ï¿½
+
+## Welcome! ðŸ‘‹
+>>>>>>> eb794196693bef838edc5e6e759a500ff920aa45
 
 Thanks for checking out this front-end coding challenge.
 
@@ -97,5 +105,9 @@ We love receiving feedback! We're always looking to improve our challenges and o
 
 This challenge is completely free. Please share it with anyone who will find it useful for practice.
 
-**Have fun building!** íº€
+<<<<<<< HEAD
+**Have fun building!** ï¿½ï¿½ï¿½
 
+=======
+**Have fun building!** ðŸš€
+>>>>>>> eb794196693bef838edc5e6e759a500ff920aa45
